@@ -1,0 +1,4 @@
+Check-up 30 60
+Surgery 500 60
+Consultation 50 60
+Filling 20 60
